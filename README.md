@@ -1,3 +1,10 @@
 # farm_api
 
-REST API Back End - Dev Academy
+REST API Backend
+
+Used Technologies
+Framework: Spring Boot
+Database: MongoDB (NoSQL)
+
+-------------------------
+
